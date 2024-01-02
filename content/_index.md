@@ -266,11 +266,11 @@ sections:
         - icon: skype
           icon_pack: fab
           name: Skype Me
-          link: 'skype:chlazaris'
+          link: 'skype:harris.lazaris17'
         - icon: video
           icon_pack: fas
           name: Zoom Me
-          link: ''
+          link: 'https://nyu.zoom.us/j/5088350579'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
