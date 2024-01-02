@@ -62,27 +62,32 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Expert II, Oncology Data Science
+          company: Novartis
+          company_url: 'http://www.novartis.com'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Cambridge, MA
+          date_start: '2022-05-23'
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * Analysing and integrating epigenomics data to uncover transcriptional dependencies in cancer.
+        - title: Bioinformatics Scientist
+          company: Whitehead Institute
+          company_url: 'https://wi.mit.edu'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Cambridge, MA
+          date_start: '2020-01-27'
+          date_end: '2022-05-22'
+          description: Developed bioinformatics workflows, analysed NGS data, and completed postdoctoral work on transcriptional addiction in multiple myeloma.
+        - title: Research Associate I
+          company: University of California, San Diego
+          company_url: 'https://www.ucsd.edu'
+          company_logo: org-x
+          location: La Jolla, CA
+          date_start: '2013-01-30'
+          date_end: '2013-07-06'
+          description: Investigated transcriptional response to aging in baker's yeast.
     design:
       columns: '2'
   - block: accomplishments
@@ -237,37 +242,35 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: lazaris@nyu.edu
+      appointment_url: 'https://tidycal.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 250 Massachusetts Ave
+        city: Cambridge
+        region: MA
+        postcode: '02139'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: Enter Building and take the stairs to Office on Floor 3
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday to Friday 9:00 to 17:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '42.36185' , 
+        longitude: '-71.097557'  
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/chlazaris'
         - icon: skype
           icon_pack: fab
           name: Skype Me
-          link: 'skype:echo123?call'
+          link: 'skype:chlazaris'
         - icon: video
           icon_pack: fas
           name: Zoom Me
-          link: 'https://zoom.com'
+          link: ''
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
