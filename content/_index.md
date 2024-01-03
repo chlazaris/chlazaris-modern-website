@@ -199,7 +199,7 @@ sections:
       title: Contact
       subtitle:
       email: lazaris@nyu.edu
-      appointment_url: 'https://tidycal.com'
+      appointment_url: 'https://tidycal.com/lazaris/60-minute-meeting'
       address:
         street: 250 Massachusetts Ave
         city: Cambridge
