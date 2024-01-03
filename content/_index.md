@@ -121,7 +121,7 @@ sections:
           organization_url: https://www.datacamp.com
           title: 'Python Developer'
           url: ''
-      - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/track/8b7f4c4fddc05a37643e131139ffc5762027c7ab
+        - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/track/8b7f4c4fddc05a37643e131139ffc5762027c7ab
           date_end: ''
           date_start: '2020-11-28'
           description: ''
