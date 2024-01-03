@@ -65,7 +65,7 @@ skills:
       - name: R
         description: ''
         percent: 100
-        icon: R
+        icon: fa-r-project
         icon_pack: fab
       - name: Python
         description: ''
@@ -75,7 +75,7 @@ skills:
       - name: Julia
         description: ''
         percent: 70
-        icon: julia
+        icon: ''
         icon_pack: fab
       - name: SQL
         description: ''
