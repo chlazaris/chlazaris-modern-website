@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about
+  - block: about.biography
     id: about
     content:
       title: Biography
@@ -155,14 +155,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  # - block: markdown
-  #  content:
-  #    title: Gallery
-  #    subtitle: ''
-  #    text: |-
-  #      {{< gallery album="demo" >}}
-  #  design:
-  #    columns: '1'
   - block: collection
     id: featured
     content:
@@ -188,16 +180,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  # - block: collection
-  #  id: talks
-  #  content:
-  #    title: Recent & Upcoming Talks
-  #    filters:
-  #      folders:
-  #        - event
-  #  design:
-  #    columns: '2'
-  #    view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -208,9 +190,6 @@ sections:
     content:
       title: Contact
       subtitle:
-      # text: |-
-      #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
       email: lazaris@nyu.edu
       appointment_url: 'https://tidycal.com'
       address:
