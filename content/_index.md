@@ -34,17 +34,25 @@ sections:
         - title: Expert II, Oncology Data Science
           company: Novartis
           company_url: 'http://www.novartis.com'
-          company_logo: org-gc
+          company_logo: org-novartis
           location: Cambridge, MA
           date_start: '2022-05-23'
           date_end: ''
           description: |2-
               Responsibilities include:
               * Analysing and integrating epigenomics data to uncover transcriptional dependencies in cancer.
+        - title: Associated Scientist, Klarman Cell Observatory
+          company: Broad Institute of MIT and Harvard
+          company_url: 'https://www.broadinstitute.org'
+          company_logo: org-bi
+          location: Cambridge, MA
+          date_start: '2020-06-01'
+          date_end: ''
+          description: Developed bioinformatics workflows, analysed NGS data, and completed postdoctoral work on transcriptional addiction in multiple myeloma. 
         - title: Bioinformatics Scientist
           company: Whitehead Institute
           company_url: 'https://wi.mit.edu'
-          company_logo: org-x
+          company_logo: org-wi
           location: Cambridge, MA
           date_start: '2020-01-27'
           date_end: '2022-05-22'
@@ -52,7 +60,7 @@ sections:
         - title: Research Associate I
           company: University of California, San Diego
           company_url: 'https://www.ucsd.edu'
-          company_logo: org-x
+          company_logo: org-ucsd
           location: La Jolla, CA
           date_start: '2013-01-30'
           date_end: '2013-07-06'
