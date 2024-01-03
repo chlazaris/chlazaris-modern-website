@@ -32,4 +32,21 @@ abstract: The metazoan genome is compartmentalized in areas of highly interactin
 links:
 - name: URL
   url: http://www.nature.com/articles/s41467-018-03017-1
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://www.nature.com/articles/s41467-018-03017-1.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
