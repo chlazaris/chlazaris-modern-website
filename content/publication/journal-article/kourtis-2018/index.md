@@ -47,4 +47,21 @@ abstract: Cellular transformation is accompanied by extensive rewiring of many b
 links:
 - name: URL
   url: http://www.nature.com/articles/s41591-018-0105-8
+
+# Should the article be featured?
+featured: true
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6082694/pdf/nihms959596.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
