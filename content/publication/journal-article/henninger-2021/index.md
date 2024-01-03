@@ -39,6 +39,4 @@ abstract: Regulation of biological processes typically incorporates mechanisms t
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0092867420315671
-# Display this page in the Featured widget?
-featured: false
 ---
