@@ -33,4 +33,21 @@ abstract: Hematopoietic stem cells (HSCs) are dormant in the bone marrow and can
 links:
 - name: URL
   url: http://dx.doi.org/10.1038/ni.3559
+
+# Display this page in the Featured widget?
+featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5117833/pdf/nihms811402.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
