@@ -55,4 +55,21 @@ abstract: 'A substantial fraction of patients with stage I-III colorectal adenoc
 links:
 - name: URL
   url: https://www.tandfonline.com/doi/full/10.1080/2162402X.2020.1862529
+
+# Display this page in the Featured widget?
+featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7951964/pdf/KONI_10_1862529.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
