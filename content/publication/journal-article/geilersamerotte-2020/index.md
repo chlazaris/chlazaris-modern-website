@@ -44,4 +44,21 @@ abstract: 'Pleiotropy-when a single mutation affects multiple traits-is a contro
 links:
 - name: URL
   url: http://dx.doi.org/10.1371/journal.pbio.3000836
+
+# Display this page in the Featured widget?
+featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3000836&type=printable'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
