@@ -44,4 +44,21 @@ abstract: Insulin receptor (IR) signaling is central to normal metabolic control
 links:
 - name: URL
   url: http://dx.doi.org/10.1038/s41467-022-35176-7
+
+# Display this page in the Featured widget?
+featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://www.nature.com/articles/s41467-022-35176-7.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
