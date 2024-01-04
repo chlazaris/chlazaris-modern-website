@@ -198,7 +198,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      email: lazaris@nyu.edu
+      # email: lazaris@nyu.edu
       appointment_url: 'https://tidycal.com/lazaris'
       address:
         street: 250 Massachusetts Ave
