@@ -47,4 +47,21 @@ abstract: Cutaneous T-cell lymphoma is a heterogeneous group of lymphomas charac
 links:
 - name: URL
   url: http://dx.doi.org/10.1016/j.jid.2017.10.028
+
+# Display this page in the Featured widget?
+featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://www.jidonline.org/action/showPdf?pii=S0022-202X%2817%2933144-5'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
