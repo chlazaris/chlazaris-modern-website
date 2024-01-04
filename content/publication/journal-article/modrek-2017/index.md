@@ -65,7 +65,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.cell.com/cell-reports/fulltext/S2211-1247(17)31426-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124717314262%3Fshowall%3Dtrue#'
+url_pdf: 'https://www.cell.com/cell-reports/pdfExtended/S2211-1247(17)31426-2'
 url_code: ''
 url_dataset: ''
 url_poster: ''
