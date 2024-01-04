@@ -46,4 +46,21 @@ abstract: 'BACKGROUND: Chromatin conformation capture techniques have evolved ra
 links:
 - name: URL
   url: http://dx.doi.org/10.1186/s12864-016-3387-6
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/s12864-016-3387-6.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
