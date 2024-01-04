@@ -54,4 +54,21 @@ abstract: "AIM: Marathon is a running event in which athletes must cover a dista
 links:
 - name: URL
   url: https://www.frontiersin.org/articles/10.3389/fimmu.2022.1009065/full
+
+# Display this page in the Featured widget?
+featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/fimmu.2022.1009065/pdf?isPublishedV2=False'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
