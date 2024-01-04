@@ -33,4 +33,21 @@ abstract: Maintenance of stem cell plasticity is determined by the ability to ba
 links:
 - name: URL
   url: http://dx.doi.org/10.1080/15384101.2017.1295194
+
+# Display this page in the Featured widget?
+featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5788434/pdf/kccy-16-24-1295194.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
