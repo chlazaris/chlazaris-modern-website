@@ -42,4 +42,21 @@ abstract: ​Heat-shock factor 1 (​HSF1) orchestrates the heat-shock response 
 links:
 - name: URL
   url: http://dx.doi.org/10.1038/ncb3121
+
+# Display this page in the Featured widget?
+featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4401662/pdf/nihms-657338.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
