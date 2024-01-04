@@ -45,4 +45,21 @@ abstract: Differences in three-dimensional (3D) chromatin architecture can influ
 links:
 - name: URL
   url: http://www.nature.com/articles/s41588-020-0602-9
+
+# Display this page in the Featured widget?
+featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138649/pdf/EMS85895.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
