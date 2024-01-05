@@ -47,7 +47,7 @@ sections:
           company_logo: org-bi
           location: Cambridge, MA
           date_start: '2020-06-01'
-          date_end: ''
+          date_end: '2022-05-22'
           description: Developed bioinformatics workflows, analysed NGS data, and completed postdoctoral work on transcriptional addiction in multiple myeloma. 
         - title: Bioinformatics Scientist
           company: Whitehead Institute
