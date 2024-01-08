@@ -77,6 +77,11 @@ skills:
         percent: 70
         icon: chart-line
         icon_pack: fas
+      - name: Nextflow
+        description: ''
+        percent: 70
+        icon: chart-line
+        icon_pack: fas
       - name: SQL
         description: ''
         percent: 40
