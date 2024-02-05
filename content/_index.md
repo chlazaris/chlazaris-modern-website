@@ -116,6 +116,16 @@ sections:
           organization_url: https://www.datacamp.com
           title: 'SQL Server Developer'
           url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/YYSE5KQ9XV
+          date_end: '2014-07-08'
+          date_start: '2014-07-08'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.datacamp.com
+          title: 'R Programming'
+          url: 'https://www.coursera.org/learn/r-programming'
+        
     design:
       columns: '2'
  # - block: portfolio
