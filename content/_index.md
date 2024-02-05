@@ -91,7 +91,7 @@ sections:
           url: ''
         - certificate_url: https://www.coursera.org/account/accomplishments/verify/AU6AHPB7TW42
           date_end: '2022-03-20'
-          date_start: ''
+          date_start: '2022-03-20'
           description: ''
           icon: coursera
           organization: Coursera
