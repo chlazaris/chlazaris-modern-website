@@ -87,7 +87,16 @@ sections:
           icon: datacamp
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: Julia Fundamentals
+          title: 'Julia Fundamentals'
+          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/AU6AHPB7TW42
+          date_end: '2022-03-20'
+          date_start: ''
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: 'Julia Scientific Programming'
           url: ''
         - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/track/8b7f4c4fddc05a37643e131139ffc5762027c7ab
           date_end: ''
