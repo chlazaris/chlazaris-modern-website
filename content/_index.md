@@ -90,7 +90,7 @@ sections:
           title: 'Julia Fundamentals'
           url: ''
         - certificate_url: https://www.coursera.org/account/accomplishments/verify/AU6AHPB7TW42
-          date_end: '2022-03-20'
+          date_end: ''
           date_start: '2022-03-20'
           description: ''
           icon: coursera
@@ -117,7 +117,7 @@ sections:
           title: 'SQL Server Developer'
           url: ''
         - certificate_url: https://www.coursera.org/account/accomplishments/verify/YYSE5KQ9XV
-          date_end: '2014-07-08'
+          date_end: ''
           date_start: '2014-07-08'
           description: ''
           icon: coursera
