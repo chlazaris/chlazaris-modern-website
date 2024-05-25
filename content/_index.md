@@ -31,13 +31,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Expert II, Oncology Data Science
+        - title: Senior Expert I, Oncology Data Science
+          company: Novartis
+          company_url: 'http://www.novartis.com'
+          company_logo: org-novartis
+          location: Cambridge, MA
+          date_start: '2024-05-20'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Analysing and integrating epigenomics data to uncover transcriptional dependencies in cancer.
+         - title: Expert II, Oncology Data Science
           company: Novartis
           company_url: 'http://www.novartis.com'
           company_logo: org-novartis
           location: Cambridge, MA
           date_start: '2022-05-23'
-          date_end: ''
+          date_end: '2024-05-19'
           description: |2-
               Responsibilities include:
               * Analysing and integrating epigenomics data to uncover transcriptional dependencies in cancer.
