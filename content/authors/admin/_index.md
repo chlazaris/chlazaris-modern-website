@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Expert II, Oncology Data Science
+role: Senior Expert I, Oncology Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
