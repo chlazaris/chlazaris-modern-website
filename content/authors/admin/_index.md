@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Charalampos Lazaris
+title: Charalampos Lazaris, Ph.D.
 
 # Name pronunciation (optional)
 name_pronunciation: 
