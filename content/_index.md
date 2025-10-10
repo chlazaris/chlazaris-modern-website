@@ -40,7 +40,7 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Analysing and integrating epigenomics data to uncover transcriptional dependencies in cancer.
+              * * Uncovering transcriptional dependencies in certain common solid tumors, by analyzing, integrating, and interpreting genetics, epigenetics, and transcriptomics datasets.
         - title: Expert II, Oncology Data Science
           company: Novartis
           company_url: 'http://www.novartis.com'
@@ -50,7 +50,7 @@ sections:
           date_end: '2024-05-19'
           description: |2-
               Responsibilities include:
-              * Analysing and integrating epigenomics data to uncover transcriptional dependencies in cancer.
+              * Uncovering transcriptional dependencies in certain common solid tumors, by analyzing, integrating, and interpreting genetics, epigenetics, and transcriptomics datasets.
         - title: Associated Scientist, Klarman Cell Observatory
           company: Broad Institute of MIT and Harvard
           company_url: 'https://www.broadinstitute.org'
