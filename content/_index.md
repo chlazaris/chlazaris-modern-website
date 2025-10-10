@@ -40,7 +40,7 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * * Uncovering transcriptional dependencies in certain common solid tumors, by analyzing, integrating, and interpreting genetics, epigenetics, and transcriptomics datasets.
+              * Uncovering transcriptional dependencies in certain common solid tumors, by analyzing, integrating, and interpreting genetics, epigenetics, and transcriptomics datasets.
         - title: Expert II, Oncology Data Science
           company: Novartis
           company_url: 'http://www.novartis.com'
